@@ -1,2 +1,1 @@
-# new_data
-document
+<h1>Starting from the beginning</h1>
